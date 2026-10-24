@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+venu/
+.env
+interview_history.bd
